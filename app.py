@@ -1,4 +1,3 @@
-Python
 import streamlit as st
 import ipaddress
 import math
